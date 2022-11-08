@@ -8,6 +8,8 @@ incredibly shitty, only released for [educational](https://www.youtube.com/watch
 if you know how to use it ya know
 
 
-
+```py
+from etsav import wavgen
+```
 
 website: https://evan.systems
