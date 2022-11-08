@@ -1,6 +1,4 @@
-"""
-Video Wave Creation Class
-"""
+
 
 from .video import Video
 from .audio import Audio
