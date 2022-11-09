@@ -30,7 +30,10 @@ example of xtreme math:
             for i in range(2):
                 ax = plt.subplot(2, 1, i+1)
                 ax.plot(self.data[start:end, i], lw=0.5)
-                ```
+ ```
+                
+                
+                
 
 # but i want an actual working one lmao
 
