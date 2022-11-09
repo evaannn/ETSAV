@@ -13,3 +13,8 @@ from etsav import wavgen
 ```
 
 website: https://evan.systems
+
+
+# but.. daddy how does it work uwu
+
+using `matplotlib` and `opencv` to calculate the amplitudes and frequencies of an audio, to calculate one frame. Then, use a graphics rendering library to smooth out frameby transitions and a renderfutureframe function to skip by each frame to create every last output. mask it in white and blend it in, profit
