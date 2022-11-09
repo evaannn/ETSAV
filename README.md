@@ -38,3 +38,6 @@ example of xtreme math:
 # but i want an actual working one lmao
 
 search them up lmao
+
+
+sources used: [opencv documentation](https://docs.opencv.org/4.x/dd/de7/group__videoio.html) 
